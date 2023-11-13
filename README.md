@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## DEMO
-[![Demo](./SPACY.png)]([https://clipchamp.com/watch/gQPE5UwjIYs](https://clipchamp.com/watch/LAd2Y5ot6pP?utm_source=share&utm_medium=social&utm_campaign=watch))
+[![Demo](./demo.PNG)]([https://clipchamp.com/watch/gQPE5UwjIYs](https://clipchamp.com/watch/LAd2Y5ot6pP?utm_source=share&utm_medium=social&utm_campaign=watch))
 
 
 ## Backend
