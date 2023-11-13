@@ -11,5 +11,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 
 ## Backend
-> **_NOTE:_**  this is the frontend of the actual project where you can find the backend through [this link](https://github.com/SoulaimakH/loan-management-frontend)
+> **_NOTE:_**  this is the frontend of the actual project where you can find the backend through [this link]([https://github.com/SoulaimakH/loan-management-frontend](https://github.com/SoulaimakH/loan-management-module-ArchLog-)https://github.com/SoulaimakH/loan-management-module-ArchLog-)
 
